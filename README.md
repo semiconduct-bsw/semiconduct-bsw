@@ -5,7 +5,7 @@
 ![2024 Contributions](./2024Github.PNG)
 
 ### 🚀 Technical Interests
-* **Semiconductor:** PCB/Substrate Technology (mSAP, Wet Process)
+* **Semiconductor:** ALL ABOUT SEMICONDUCTOR
 * **Data Analysis:** SPC, SQC, Python (Pandas, NumPy)
 * **AI/ML:** PyTorch, Smart Factory Automation
 
