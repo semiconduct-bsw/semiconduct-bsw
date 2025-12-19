@@ -2,7 +2,7 @@
 > **반도체 제조 공정 전문가**를 꿈꾸는 공부 기록 공간입니다.
 
 ### 📅 2024 Year in Review (Major Activities)
-![2024 Contributions](./2024Github.png)
+![2024 Contributions](./2024Github.PNG)
 
 ### 🚀 Technical Interests
 * **Semiconductor:** PCB/Substrate Technology (mSAP, Wet Process)
