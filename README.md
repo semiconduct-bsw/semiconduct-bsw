@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👨‍💻 배선우 (Sunwoo Bae)
+> **반도체 제조 공정 전문가**를 꿈꾸는 공부 기록 공간입니다.
 
-<!--
-**semiconduct-bsw/semiconduct-bsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📅 2024 Year in Review (Major Activities)
+![2024 Contributions](./2024Github.png)
 
-Here are some ideas to get you started:
+### 🚀 Technical Interests
+* **Semiconductor:** PCB/Substrate Technology (mSAP, Wet Process)
+* **Data Analysis:** SPC, SQC, Python (Pandas, NumPy)
+* **AI/ML:** PyTorch, Smart Factory Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+* 📧 Contact: chem1bsw.fac@gmail.com
